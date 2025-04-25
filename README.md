@@ -26,6 +26,6 @@ For the step-by-step tutorial, please refer to:
 [spaMGCN-tutorials/](https://github.com/hongfeiZhang-source/spaMGCN/blob/master/MGCN-main/test%20%20MoNi.ipynb)
 
 
-## Benchmarking and notebooks
+## Benchmarking
 In this study, we conducted benchmarking of spaMGCN against the latest methods—SpatialGlue, SSGATE, GraphST, GAAEST, SpaGIC, MISO and scMDC—using different tests with default parameters. SpatialGlue, MISO, SSGATE, GraphST, GAAEST and SpaGIC are spatial domain identification methods, while scMDC is a single-cell multi-omics clustering method. 
 
