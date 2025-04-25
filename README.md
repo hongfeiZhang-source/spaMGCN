@@ -1,7 +1,7 @@
 # Overview
 This is the official repository for spaMGCN, which is used to identify spatial domains from spatial multi-omics data, particularly for cases where discrete distributed spots belong to the same spatial domain.Our code is based on the paper "Multi-scale Graph Clustering Network."
 
-[![DOI][https://zenodo.org/badge/latestdoi/631763850](https://zenodo.org/records/15112750)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15112750.svg)](https://doi.org/10.5281/zenodo.15112750)
 
 ![model_architecture](model.png)
 
