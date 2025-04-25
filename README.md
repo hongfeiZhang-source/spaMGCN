@@ -23,7 +23,7 @@ You'll need to install the following packages in order to run the codes.
 
 ## Tutorial
 For the step-by-step tutorial, please refer to:
-[https://spatialglue-tutorials.readthedocs.io/en/latest/](https://github.com/hongfeiZhang-source/spaMGCN/blob/master/MGCN-main/test%20%20MoNi.ipynb)
+[spaMGCN-tutorials/](https://github.com/hongfeiZhang-source/spaMGCN/blob/master/MGCN-main/test%20%20MoNi.ipynb)
 
 
 ## Benchmarking and notebooks
