@@ -42,9 +42,6 @@ BCE_loss = torch.nn.BCEWithLogitsLoss()
 KL_loss = torch.nn.KLDivLoss(reduction='batchmean')
 
 def Train(epochs, model,adata, data,data1, adj, label, device,args):
-    torch.manual_seed(args.random_seed)
-    random.seed(args.random_seed)
-    np.random.seed(args.random_seed)
     acc_reuslt = []
     nmi_result = []
     ari_result = []
