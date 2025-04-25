@@ -3,7 +3,7 @@ This is the official repository for spaMGCN, which is used to identify spatial d
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15112750.svg)](https://doi.org/10.5281/zenodo.15112750)
 
-![model_architecture](model.png)
+![model_architecture](https://github.com/hongfeiZhang-source/spaMGCN/edit/master/model.png)
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
